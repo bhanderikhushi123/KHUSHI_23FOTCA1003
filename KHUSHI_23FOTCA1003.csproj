@@ -55,6 +55,14 @@
     <Compile Include="ASSIGNMENT2\arrayq8.cs" />
     <Compile Include="ASSIGNMENT2\arrayq9.cs" />
     <Compile Include="ASSIGNMENT2\arrq5.cs" />
+    <Compile Include="Demotest\Q1.cs" />
+    <Compile Include="Demotest\Q2.cs" />
+    <Compile Include="Demotest\Q3.cs" />
+    <Compile Include="Demotest\Q4.cs" />
+    <Compile Include="Demotest\Q5.cs" />
+    <Compile Include="Demotest\Q6.cs" />
+    <Compile Include="Demotest\Q7.cs" />
+    <Compile Include="Demotest\Q8.cs" />
     <Compile Include="q1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="q10.cs" />
@@ -73,5 +81,6 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
